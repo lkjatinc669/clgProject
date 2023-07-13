@@ -1,5 +1,4 @@
 # Synopsis: 
--------------------------------------------------------------
 1. Title
 2. Desc (Objective)
 3. No of Modules
@@ -9,7 +8,6 @@
 7. Future Scope
 
 # Marks Distribution:
--------------------------------------------------------------
 Documentation : 30
 Quality : 15
 Workng: 20
@@ -17,7 +15,6 @@ Presentation: 15
 Viva : 20
 
 # Type: 
--------------------------------------------------------------
 ## Real Life
 1. Online Banking System
 2. Cloud based document management system
