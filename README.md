@@ -8,11 +8,11 @@
 7. Future Scope
 
 # Marks Distribution:
-Documentation : 30
-Quality : 15
-Workng: 20
-Presentation: 15
-Viva : 20
+1. Documentation : 30
+2. Quality : 15
+3. Working: 20
+4. Presentation: 15
+5. Viva : 20
 
 # Type: 
 ## Real Life
